@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="ColorStorm.exe" version="1.0.0.0" publicKeyToken="d6bb49b105316d5c" language="it-IT" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Fhico.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ColorStorm" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="ColorStorm.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opzioni manifesto Controllo account utente
+          Se si desidera modificare il livello di Controllo account utente di Windows, sostituire il 
+          nodo requestedExecutionLevel con uno dei seguenti.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Se si desidera utilizzare Virtualizzazione file system e registro di sistema per la 
+         compatibilità con le versioni precedenti, eliminare il nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ColorStorm.exe" size="229888">
+      <assemblyIdentity name="ColorStorm" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>syCQ4eAcauBp6ximZBugu0qUNSg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Fhico.ico" size="726">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>mArHv/qXWE9RS7G+ptvQIi42uqA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ENAMA\federico" issuerKeyHash="0be31d621fd6064369cf424eb1ca09427180232b" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>DkY5eWzVrvnriFnkWz4eJ1YX9eU=</DigestValue></Reference></SignedInfo><SignatureValue>KFh2mQE0VtmaRw7dFFN8T3sLw7FlNaDcaxxgZvNtuMdIU1k2tjuJTeZuDkqFnPGs/pGKH5DRC7YWBaxzqJBlTZ/t6PVAhrYMZMO5i2tXoWJ87QgTISyOnU7qZ8DzPOT15IuXyMonPnBNEQQm2ai2U04mivH0Pz5+tNJ9ACUJVeE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>ooZ/VPhlGnBLNQA8qD5eNF5Se+7c31aoxGGn0NCRCLMEQi54+Ip3AM+8hpEvss1liXpHAzVH4j9u1dfi0joCRpnoe23NZFJ2NHuyva6ctse1uwEz4aNEg4Y5g6i5BcRiBPwfGWZSSxGsjYQhdcZw8lx7ZXO9oy2PYlogm76NNcU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e5f51756271e3e5be45988ebf9aed56c7939460e" Description="" Url=""><as:assemblyIdentity name="ColorStorm.exe" version="1.0.0.0" publicKeyToken="d6bb49b105316d5c" language="it-IT" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ENAMA\federico</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>GY0i/FjGAzVf7/cHG5CGAezfmvI=</DigestValue></Reference></SignedInfo><SignatureValue>FPdp0t6+nbVAuhuRLY0dItAeXDP0B5oCtGFzoLrGR3u+8xy/6FVSAUVm4ZSq82zxHeeeiqsZ0inbcoGCYTjPzQ4D3jmHFOIbCz1HfU2ZjsCr891y1HzAk+aXxxkN9oln36w6fd7dPxq+BEv+4jfxZh1Gb1LpxruL1lyhG6Bv2hQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>ooZ/VPhlGnBLNQA8qD5eNF5Se+7c31aoxGGn0NCRCLMEQi54+Ip3AM+8hpEvss1liXpHAzVH4j9u1dfi0joCRpnoe23NZFJ2NHuyva6ctse1uwEz4aNEg4Y5g6i5BcRiBPwfGWZSSxGsjYQhdcZw8lx7ZXO9oy2PYlogm76NNcU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATagAwIBAgIQczLMl7fjmqpLcV+s/R73tDAJBgUrDgMCHQUAMCcxJTAjBgNVBAMeHABFAE4AQQBNAEEAXABmAGUAZABlAHIAaQBjAG8wHhcNMTEwNzA4MTIyNjMwWhcNMTIwNzA3MTgyNjMwWjAnMSUwIwYDVQQDHhwARQBOAEEATQBBAFwAZgBlAGQAZQByAGkAYwBvMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCihn9U+GUacEs1ADyoPl40XlJ77tzfVqjEYafQ0JEIswRCLnj4incAz7yGkS+yzWWJekcDNUfiP27V1+LSOgJGmeh7bc1kUnY0e7K9rpy2x7W7ATPho0SDhjmDqLkFxGIE/B8ZZlJLEayNhCF1xnDyXHtlc72jLY9iWiCbvo01xQIDAQABMAkGBSsOAwIdBQADgYEAmkGvlo/m86669O5yzT0Y14gL4D5DonXn25vq0X77PSQNLpl2P7JUgGoFlovmY8O5U01hQsjjJzsuas8LnYYqn3yit9PBaXk5jdbx/rUXTk/eLgFOfDzcbiHvSvtC77bfQ69rMQY8tWFj8nDZ61kmPiHvw4F0o8uHs6J1OeDBZEM=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

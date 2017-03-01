@@ -1,0 +1,36 @@
+C:\Documents and Settings\Federico\Impostazioni locali\Dati applicazioni\Temporary Projects\ColorStorm\bin\Debug\Resources\color.bmp
+C:\Documents and Settings\Federico\Impostazioni locali\Dati applicazioni\Temporary Projects\ColorStorm\bin\Debug\Resources\tonalita.bmp
+C:\Documents and Settings\Federico\Impostazioni locali\Dati applicazioni\Temporary Projects\ColorStorm\bin\Debug\ColorStorm.exe
+C:\Documents and Settings\Federico\Impostazioni locali\Dati applicazioni\Temporary Projects\ColorStorm\bin\Debug\ColorStorm.pdb
+C:\Documents and Settings\Federico\Impostazioni locali\Dati applicazioni\Temporary Projects\ColorStorm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Federico\Impostazioni locali\Dati applicazioni\Temporary Projects\ColorStorm\obj\x86\Debug\ColorStorm.Form1.resources
+C:\Documents and Settings\Federico\Impostazioni locali\Dati applicazioni\Temporary Projects\ColorStorm\obj\x86\Debug\ColorStorm.Properties.Resources.resources
+C:\Documents and Settings\Federico\Impostazioni locali\Dati applicazioni\Temporary Projects\ColorStorm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Federico\Impostazioni locali\Dati applicazioni\Temporary Projects\ColorStorm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Federico\Impostazioni locali\Dati applicazioni\Temporary Projects\ColorStorm\obj\x86\Debug\ColorStorm.exe
+C:\Documents and Settings\Federico\Impostazioni locali\Dati applicazioni\Temporary Projects\ColorStorm\obj\x86\Debug\ColorStorm.pdb
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\ColorStorm\ColorStorm\obj\x86\Debug\ColorStorm.exe
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\ColorStorm\ColorStorm\obj\x86\Debug\ColorStorm.pdb
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\ColorStorm\ColorStorm\bin\Debug\Resources\color.bmp
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\ColorStorm\ColorStorm\bin\Debug\Resources\tonalita.bmp
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\ColorStorm\ColorStorm\bin\Debug\ColorStorm.exe
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\ColorStorm\ColorStorm\bin\Debug\ColorStorm.pdb
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\ColorStorm\ColorStorm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\ColorStorm\ColorStorm\obj\x86\Debug\ColorStorm.Form1.resources
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\ColorStorm\ColorStorm\obj\x86\Debug\ColorStorm.Properties.Resources.resources
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\ColorStorm\ColorStorm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\ColorStorm\ColorStorm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\ColorStorm\ColorStorm\bin\Debug\ColorStorm.exe.manifest
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\ColorStorm\ColorStorm\bin\Debug\ColorStorm.application
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\ColorStorm\ColorStorm\obj\x86\Debug\ColorStorm.exe.manifest
+C:\Documents and Settings\Federico\documenti\visual studio 2010\Projects\ColorStorm\ColorStorm\obj\x86\Debug\ColorStorm.application
+C:\Users\federico\Documents\Visual Studio 2010\Projects\ColorStorm\ColorStorm\obj\x86\Debug\ColorStorm.exe
+C:\Users\federico\Documents\Visual Studio 2010\Projects\ColorStorm\ColorStorm\obj\x86\Debug\ColorStorm.pdb
+C:\Users\federico\Documents\Visual Studio 2010\Projects\ColorStorm\ColorStorm\obj\x86\Debug\ColorStorm.csprojResolveAssemblyReference.cache
+C:\Users\federico\Documents\Visual Studio 2010\Projects\ColorStorm\ColorStorm\obj\x86\Debug\ColorStorm.Form1.resources
+C:\Users\federico\Documents\Visual Studio 2010\Projects\ColorStorm\ColorStorm\obj\x86\Debug\ColorStorm.Properties.Resources.resources
+C:\Users\federico\Documents\Visual Studio 2010\Projects\ColorStorm\ColorStorm\obj\x86\Debug\ColorStorm.csproj.GenerateResource.Cache
+C:\Users\federico\Documents\Visual Studio 2010\Projects\ColorStorm\ColorStorm\bin\Debug\Resources\color.bmp
+C:\Users\federico\Documents\Visual Studio 2010\Projects\ColorStorm\ColorStorm\bin\Debug\Resources\tonalita.bmp
+C:\Users\federico\Documents\Visual Studio 2010\Projects\ColorStorm\ColorStorm\bin\Debug\ColorStorm.exe
+C:\Users\federico\Documents\Visual Studio 2010\Projects\ColorStorm\ColorStorm\bin\Debug\ColorStorm.pdb
